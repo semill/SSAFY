@@ -1,6 +1,6 @@
 ## prefixsum
 
-psum[i]=psum[i-1]+arr[i]; \ 
+psum[i]=psum[i-1]+arr[i]; 
 와 같이 누적합을 통해 시간복잡도를 낮춰 문제풀이
 
 ## Greedy
