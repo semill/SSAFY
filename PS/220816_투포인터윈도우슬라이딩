@@ -1,0 +1,19 @@
+## binarysearch
+
+binary tree search와 헷갈리지 말것
+사용에 있어 정렬 필수
+
+### parametric search
+
+찾고자 하는게 명확 x 
+
+### window sliding
+
+고정된 범위의 크기 만큼 비교를 할때  ex) 10크기의 array에서 연속된 세 값의 합의 최대값.
+ 
+### two pointer
+
+두개의 포인터를 활용해서 원하는것을 찾는 방법
+
+배열 내에서 subarray에 대한 처리 (배열의 일부분을 완전 탐색)
+
