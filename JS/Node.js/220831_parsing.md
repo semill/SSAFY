@@ -1,7 +1,7 @@
-  ## 220831
+## 220831
 
 
-  ### terminal
+### terminal
 
 - 초기화 시
 
@@ -15,12 +15,12 @@
   npm i
   ```
   
-  git hub 업로드 시 node_modules는 파일용량이 커서 제외하기 때문에 package.json을 통해 module init
+git hub 업로드 시 node_modules는 파일용량이 커서 제외하기 때문에 package.json을 통해 module init
   
   
-  ### node
+### node
   
-  #### cors 에러
+#### cors 에러
   
   ```
     const result = await axios.get("http://localhost:8080/api/info");
